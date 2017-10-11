@@ -1,3 +1,3 @@
-# Malaysia Prayer Times
+# solat
 
-Malaysia prayer time python API based on JAKIM XML
+'solat' is a python API for malaysia prayer times. This API is using JAKIM prayer times as references
