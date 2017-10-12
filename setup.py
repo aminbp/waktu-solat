@@ -6,6 +6,7 @@ setup(
     description='Malaysia prayer time based on jakim XML',
     url='https://github.com/SyafiqTermizi/waktu-solat/',
     author='syafiq',
+    author_email='ahmadsyafiq93@gmail.com',
     packages=['solat'],
     install_requires=[
         'xmltodict',
