@@ -5,6 +5,8 @@
 ### Installation
 ```
 pip install solat
+# If you are defaulted to python 2 use step below
+# pip3 install solat
 ```
 
 ### Usage
