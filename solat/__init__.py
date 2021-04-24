@@ -3,7 +3,7 @@ import xmltodict
 
 def prayer(district):
 
-    base_url = 'http://www2.e-solat.gov.my/xml/today/?zon='
+    base_url = 'https://www.e-solat.gov.my/index.php?r=esolatApi/xmlfeed&zon='
     jakim_xml = xmltodict.parse(urlopen(base_url + district).read())
 
     prayers = []
